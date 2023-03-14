@@ -1,7 +1,7 @@
 Hi, I am Benedikt Rein
 I’m currently studiyng Busines Informatics at Humbold University Berlin, also I am attending 42 Wolfsburg to attain practical Software Engineering skills.
 
-I'm learning Python for Data Sciencs applications using Pytorch, Flair, SciKit and Pandas as well as learning C. 
+I'm implementing Data Sciencs projects using Pytorch, Pytorch-Forecasting, Pytorch-Lightning, standard machine learning libraries and Pandas. 
 
 
 <!---
