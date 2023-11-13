@@ -1,6 +1,4 @@
-I am Benedikt Rein and am m currently studiyng Busines Informatics at Humbold University Berlin. Previously I finished my studies in social science and politics and I attended 42 Wolfsburg to attain practical Software Engineering skills.
-
-I implement Data Sciencs projects using Pytorch, Pytorch-Forecasting, Pytorch-Lightning, standard machine learning libraries, and Pandas and enjoy educating people about big data, machine learnign and ethics of AI.
+Hello, I'm Benedikt Rein, a dedicated student of Business Informatics at Humboldt University, Berlin. My academic journey includes a solid background in social science and politics, supplemented by hands-on software engineering skills acquired at 42 Wolfsburg. My passion lies in the realm of Data Science, where I proficiently utilize tools like Pytorch, Pytorch-Forecasting, Pytorch-Lightning, alongside standard machine learning libraries and Pandas. I am particularly enthusiastic about educating others on the intricacies of big data, machine learning, and the ethical considerations in AI.
 
 
 <!---
